@@ -1,6 +1,12 @@
-﻿[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+﻿# [RDA5981](https://github.com/mcuyun/RDA5981) 
 
-# RDA5981
+国货精品，超高性价比WIFI芯片
+
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+
+---
 
 ### 简介
 
@@ -8,16 +14,24 @@
 
 ---
 
-### 组成
+## 组成
 
-- docs
+#### docs
 
 包括芯片选型手册等
 
+#### hard
+
+包括硬件参考设计
+
+#### keil
+
+相关工程代码
 
 ---
 
-### 说明
+为锻造最美之器
 
-2018-10-17: 创建工程仓库
+###  www.mcuyun.com   |    qitas@qitas.cn
+
 
