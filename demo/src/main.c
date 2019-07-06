@@ -12,7 +12,7 @@ int rda_ccfg_boot1(void)
 	return 1;
 }
 
-void main(void)
+int main(void)
 {
 		//--------------------------------------------------
 		//´®¿Ú
@@ -20,7 +20,7 @@ void main(void)
 		UartObj.index = 0;
 		
 		uart_init(&UartObj, UART0_TX, UART0_RX);
-		uart_baud(&UartObj, 9600);
+		uart_baud(&UartObj, 115200);
 		uart_format(&UartObj, 8, ParityNone, 1);
 		
 		//---------------------------------------------------
