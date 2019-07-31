@@ -1,4 +1,7 @@
-./Objects
-./Listings
-./*.uvgui*
-./*.uvoptx
+Objects/
+Listings/
+obj/
+list/
+*.uvgui*
+*.uvopt*
+*.bin
