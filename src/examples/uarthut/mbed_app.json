@@ -1,7 +1,0 @@
-{
-    "target_overrides": {
-        "UNO_91H": {
-            "target.features_add": ["LWIP", "CONSOLE"]
-        }
-    }
-}
